@@ -1,0 +1,185 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
+
+
+
+
+
+
+#form2-5 .mbr-section-title {
+  font-size: 32px;
+  font-family: 'Open Sans', sans-serif;
+  color: #191919;
+}
+#dropdown-menu-2btn-1 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1 .navbar-brand a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+}
+#dropdown-menu-2btn-1 .nav .link,
+#dropdown-menu-2btn-1 .dropdown-item {
+  font-size: 1.4em;
+  color: #121212;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-1 .navbar,
+#dropdown-menu-2btn-1 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1 .dropdown-menu a:hover,
+#dropdown-menu-2btn-1 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-1 .navbar-toggler {
+  color: #121212;
+}
+#header2-3 H1 {
+  color: #ffffff;
+}
+#header2-3 P {
+  color: #dddddd;
+  font-family: 'Alegreya Sans', sans-serif;
+  font-size: 23px;
+}
+#header1-2 P {
+  text-align: center;
+  color: #ffffff;
+  font-size: 32px;
+}
+#header1-2 H1 {
+  text-align: center;
+  color: #f8f8f6;
+}
+#header1-2 B {
+  font-size: 84px;
+}
+#msg-box5-b .lead BLOCKQUOTE {
+  text-align: left;
+  color: #ffffff;
+}
+#msg-box5-b .mbr-section-title {
+  font-size: 32px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+#msg-box5-b .mbr-section-title B {
+  color: #ffffff;
+  text-align: left;
+}
+#msg-box5-b small {
+  color: #fbfbfb;
+}
+#msg-box4-8 .mbr-section-title {
+  text-align: right;
+  font-size: 32px;
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #ffffff;
+}
+#msg-box4-8 .lead P {
+  text-align: right;
+  color: #ffffff;
+}
+#msg-box4-8 .lead BLOCKQUOTE {
+  text-align: right;
+  color: #ffffff;
+}
+#msg-box4-8 .lead H1 {
+  text-align: right;
+}
+#msg-box4-8 small {
+  text-align: right;
+  color: #dddddd;
+}
+#msg-box4-8 .lead {
+  text-align: right;
+  color: #ffffff;
+}
+#image1-9 DIV {
+  text-align: center;
+  font-size: 20px;
+}
+#image1-9 B {
+  color: #191919;
+  font-size: 16px;
+  text-align: right;
+}
+#msg-box2-k H2 {
+  text-align: left;
+  font-size: 20px;
+  color: #ffffff;
+  font-family: 'Alegreya Sans', sans-serif;
+}
+#contacts1-7 STRONG {
+  font-size: 20px;
+}
+#contacts1-7 P {
+  font-size: 16px;
+}
+
+
+#dropdown-menu-2btn-4 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-4 .navbar-brand a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 24px;
+}
+#dropdown-menu-2btn-4 .nav .link,
+#dropdown-menu-2btn-4 .dropdown-item {
+  font-size: 1.4em;
+  color: #121212;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-4 .navbar,
+#dropdown-menu-2btn-4 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-2btn-4 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-4 .dropdown-menu a:hover,
+#dropdown-menu-2btn-4 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-2btn-4 .navbar-toggler {
+  color: #121212;
+}
+#header4-c H1 {
+  font-size: 30px;
+}
+#header4-c P {
+  font-size: 19px;
+  text-align: right;
+}
+#header4-c B {
+  text-align: right;
+}
+#content5-d P {
+  font-size: 25px;
+  color: #ffffff;
+}
+#content5-d .mbr-section-title B {
+  font-size: 60px;
+  color: #ffffff;
+}
+#content4-e P {
+  text-align: center;
+}
+#testimonials1-g .mbr-section-title {
+  color: #ffffff;
+}
+#testimonials1-g .card-footer > div {
+  font-size: 24px;
+  text-align: center;
+}
+#testimonials1-g .card-block I {
+  text-align: center;
+}
+#contacts3-i STRONG {
+  font-size: 18px;
+}
+#contacts3-i P {
+  font-size: 14px;
+}
