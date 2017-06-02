@@ -14,6 +14,9 @@
   font-family: 'Open Sans', sans-serif;
   color: #191919;
 }
+#form2-5 .mbr-section-title B {
+  text-align: right;
+}
 #header2-3 H1 {
   color: #ffffff;
 }
@@ -104,7 +107,7 @@
 }
 #dropdown-menu-2btn-4 .nav .link,
 #dropdown-menu-2btn-4 .dropdown-item {
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: #000000;
   font-family: 'Roboto', sans-serif;
 }
@@ -131,7 +134,7 @@
 }
 #dropdown-menu-2btn-4 .nav .link,
 #dropdown-menu-2btn-4 .dropdown-item {
-  font-size: 1.4em;
+  font-size: 1.2em;
   color: #000000;
   font-family: 'Roboto', sans-serif;
 }
